@@ -1,0 +1,16 @@
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe.config
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.pdb
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\bin\Debug\mscorlib.dll
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\bin\Debug\normidna.nlp
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\bin\Debug\normnfc.nlp
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\bin\Debug\normnfd.nlp
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\bin\Debug\normnfkc.nlp
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\bin\Debug\normnfkd.nlp
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csprojResolveAssemblyReference.cache
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.bubble.resources
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Form1.resources
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Properties.Resources.resources
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.GenerateResource.Cache
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.exe
+D:\A_Research\First Source\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.pdb
